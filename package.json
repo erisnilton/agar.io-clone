@@ -1,13 +1,17 @@
 {
+  "homepage": "https://erisnilton.dev/agar-clone/",
   "name": "agar-clone",
   "private": true,
   "version": "0.0.0",
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "typescript": "^4.5.4",
     "vite": "^2.9.9"
   }
