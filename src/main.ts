@@ -4,14 +4,13 @@ import "./style.css";
 import { Game } from "./lib/engine/core/game";
 import { Vector } from "./lib/engine/geometry/vector";
 import { CullingCamera } from "./lib/engine/objects/culling-camera";
+import { Score } from "./lib/engine/objects/score";
 import { generateColor } from "./lib/engine/util/util";
 import { CurrentPlayer } from "./lib/objects/current-player";
 import { Eat } from "./lib/objects/eat";
 import { Enemy } from "./lib/objects/enemy";
-import { Minimap } from "./lib/objects/minimap";
-import { Score } from "./lib/engine/objects/score";
-import { Text } from "./lib/engine/objects/text";
 import { EnemyCounter } from "./lib/objects/enemyCounter";
+import { Minimap } from "./lib/objects/minimap";
 
 const game = new Game({
   resizeTo: window,
@@ -100,5 +99,5 @@ game.ticker.add(() => {
     }
   }
   // console.clear();
-  console.log(count);
+  // console.log(count);s
 });
