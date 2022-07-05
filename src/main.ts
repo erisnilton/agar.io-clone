@@ -99,5 +99,5 @@ game.ticker.add(() => {
     }
   }
   // console.clear();
-  // console.log(count);s
+  console.log(count);
 });
