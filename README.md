@@ -24,6 +24,4 @@ O desafio consistiu em replicar o site __agar.io__, utilizando o canvas do html5
 - canvas
 
 ## Links
-
 - demo: https://erisnilton.dev/agar.io-clone/
-- github: https://github.com/erisnilton/agar.io-clone
