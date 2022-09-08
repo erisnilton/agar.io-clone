@@ -1,7 +1,7 @@
 # agar.io-clone
 
 
-![landpage](src/asserts/img/agar.png)
+![Agar.io-clone](src/asserts/img/agar.gif)
 
 > __Agar.io-clone__ é um clone do famoso jogo __agar.io__, feito em javascript, html e css.
 ### Porque desse projeto?
