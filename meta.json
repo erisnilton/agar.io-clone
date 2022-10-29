@@ -1,0 +1,22 @@
+{
+  "id": "dev.erisnilton.agario-clone",
+  "version": "1.0.0",
+  "title": "Agar.io Clone",
+  "license": "MIT",
+  "description": "Um clone do jogo agar.io",
+  "developer": "Erisnilton",
+  "publisher": "Salomão Neto",
+  "thumbnail": "https://github.com/erisnilton/agar.io-clone/raw/main/src/asserts/img/agar.gif",
+  "medias": [
+    {
+      "type": "video",
+      "url": "https://github.com/erisnilton/agar.io-clone/raw/main/src/asserts/img/agar.gif"
+    }
+  ],
+  "updates": "git@github.com:erisnilton/agar.io-clone.git#gh-pages",
+  "tags": [
+    "agar.io",
+    "clone",
+    "arcade"
+  ]
+}
